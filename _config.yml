@@ -1,7 +1,7 @@
 name: JasonEarly
 favicon: null
-layout_spectrum: 0.99916
-typography_spectrum: 0.6652694358490407
+layout_spectrum: 0.54946
+typography_spectrum: 0.6416
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#969696'
+    - '#626262'
+    - '#282828'
+    - '#d1d1d1'
   brandStrength: 0.9027845170348883
   lightness: 0.14408258837647736
   saturation: 0.893340241862461
